@@ -7,5 +7,5 @@ Um simples aplicativo de console que simula a adição de produtos a um carrinho
 A ideia principal era desenvolver um exercício prático para treinar e aplicar os seguintes conceitos de Java:
 
 * **Orientação a Objetos (OOP)**
-* **Construtores:** 
-* **Listas Dinâmicas:** 
+* **Construtores** 
+* **Listas Dinâmicas** 
